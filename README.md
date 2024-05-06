@@ -7,5 +7,6 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fphp-99&psig=AOvVaw0_StHk1YeF9u0hehHufZWR&ust=1715040969533000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi1-NLf94UDFQAAAAAdAAAAABAl" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" width="40" height="40"/>
+
 
