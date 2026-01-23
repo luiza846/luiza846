@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Ana Luiza
 
-- 🔭 Sou estagiária de TI, trabalho com Help Desk e infraestrutura
-- 🌱 Estudante de Análise e Desevolvimento de Sistemas
+- 🌱 Graduada em Análise e Desevolvimento de Sistemas
 - ⚡ Apaixonada por programação (Full Stack)
 - 😄 Sou uma pessoa sempre aberta para novos desafios e aprendizados!
 
