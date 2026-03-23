@@ -1,10 +1,11 @@
-### Olá! Eu sou a Ana Luiza
+### Hello, I'm Ana Luiza 👋🏼
 
-- 🌱 Graduada em Análise e Desevolvimento de Sistemas
-- ⚡ Apaixonada por programação (Full Stack)
-- 😄 Sou uma pessoa sempre aberta para novos desafios e aprendizados!
+💻 Graduated in Systems Analysis and Development
+🤖 Computer Engineering student
+⚡ Passionate about programming (Full Stack)
+😄 I am always open to new challenges and continuous learning!
 
-## Estou aprendendo
+## Technical Skills
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
@@ -18,7 +19,6 @@
 <div>
 <a href="https://github.com/luiza846">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiza846&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiza846&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
