@@ -1,9 +1,9 @@
 ### Hello, I'm Ana Luiza 👋🏼
 
-💻 Graduated in Systems Analysis and Development
-🤖 Computer Engineering student
-⚡ Passionate about programming (Full Stack)
-😄 I am always open to new challenges and continuous learning!
+- 🌱 Graduated in Systems Analysis and Development
+- 🤖 Computer Engineering student
+- ⚡ Passionate about programming (Full Stack)
+- 😄 I am always open to new challenges and continuous learning!
 
 ## Technical Skills
 
@@ -19,6 +19,7 @@
 <div>
 <a href="https://github.com/luiza846">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiza846&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiza846&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
